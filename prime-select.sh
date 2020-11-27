@@ -17,7 +17,7 @@ xorg_nvidia_prime_render_offload="/usr/share/prime/xorg-nvidia-prime-render-offl
 prime_logfile="/var/log/prime-select.log"
 nvidia_modules="ipmi_devintf nvidia_drm nvidia_modeset nvidia_uvm nvidia ipmi_msghandler"
 driver_choices="nvidia|intel|intel2"
-lspci_intel_line="VGA compatible controller: Intel"
+lspci_intel_line="VGA compatible controller: AMD"
 lspci_nvidia_vga_line="VGA compatible controller: NVIDIA"
 lspci_nvidia_3d_line="3D controller: NVIDIA"
 
